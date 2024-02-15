@@ -1,1 +1,5 @@
-made you look.
+return {
+  ['a'] = function()
+    print('hi')
+  end
+}
