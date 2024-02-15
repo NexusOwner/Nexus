@@ -1,5 +1,5 @@
 return {
-  ['a'] = function()
-    print('hi')
+  ['a'] = function(bool:boolean)
+    print(bool)
   end
 }
